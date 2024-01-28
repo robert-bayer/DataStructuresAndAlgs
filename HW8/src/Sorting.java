@@ -57,7 +57,7 @@ public class Sorting {
                 arr[j - 1] = tempVar;
                 j--;
             }
-            i++;
+            i++; // increment i here
         }
 
     }
